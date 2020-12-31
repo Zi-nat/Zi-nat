@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Zinat
+
+I am a software developer specialized in Java programming 😄
 
 <!--
 **Zi-nat/Zi-nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
